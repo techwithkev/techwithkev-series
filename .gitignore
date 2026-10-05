@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Guard: answer keys and solutions belong in the private course material, never here
+*solution*
+*Solution*
+*answer*
+*Answer*
+*.docx
+*.xlsx
