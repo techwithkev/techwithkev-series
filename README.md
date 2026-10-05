@@ -1,4 +1,4 @@
-# Tech With Kev — AI Series: Free Resources
+# Tech With Kev - AI Series: Free Resources
 
 Free companion material for the **Tech With Kev AI series** on YouTube: runnable notebooks and sample practice questions that go with the episodes.
 
